@@ -8,7 +8,7 @@
 #endif
 
 /*Setup Arduino Pins*/
-  int Suck_pin = A0;
+  int Suck_pin = A1;
   int Q1pin = 2;
   int Q2pin = 3;
   int Q3pin = 4;
