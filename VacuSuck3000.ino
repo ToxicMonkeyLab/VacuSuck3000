@@ -14,7 +14,7 @@
   int Q3pin = 4;
   int Q4pin = 5;
   int HVpin = 6;
-  int DPDTpin = 7;
+  int DPDTpin = 13;
 
 /*Setup Arduino Variables*/
   int SuckVal;
